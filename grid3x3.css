@@ -65,9 +65,8 @@
 	right: 100%;
 	top:30%;
 	text-align: center;
-	opacity: 0;
-	animation-name: leftFadeInRightFadeOut;
-	animation-delay: 6s;
+	opacity: 1;
+	animation-name: fadeInOut;
 	animation-duration: 3s;
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards;
@@ -87,7 +86,8 @@
 	width: 50%;
 	padding: 2em;
 	text-align: center;
-	animation-name: fadeInOut;
+	animation-name: leftFadeInRightFadeOut;
+	animation-delay: 6s;
 	animation-duration: 3s;
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards;
