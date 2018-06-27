@@ -85,6 +85,7 @@ h1 {
 	font-family: 'Lemon Tuesday', script;
 }
 /* CSS 3x3 Grid */
+/*
 .grid-container {
 	position: absolute;
 	top:0;
@@ -112,8 +113,8 @@ h1 {
 	text-align: center;
 }
 img {
-	/* 100% width & height will resize img to div, but may distort image
-	keeping one value auto keeps it from distorting it*/
+	// 100% width & height will resize img to div, but may distort image
+	keeping one value auto keeps it from distorting it// 
 	width: auto;
 	height: 50%;
 }
@@ -134,3 +135,4 @@ iframe {
 	line-height: 1.5em;
 	overflow: scroll;
 }
+*/
