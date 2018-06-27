@@ -10,9 +10,9 @@
 	100% { opacity: 1; }
 }
 @keyframes leftFadeInRightFadeOut {
-	0% { position: absolute; left: -100%; opacity: 0; }
+	0% { position: absolute; left: 30%; opacity: 1; }
 	50% { position: absolute; left: 40%; opacity: 1; }
-	100% { position: absolute; left: 100%; opacity: 0 }
+	100% { position: absolute; left: 100%; opacity: 1 }
 }
   @font-face {
    font-family: myFirstFont;
