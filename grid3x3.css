@@ -15,18 +15,8 @@
 	100% { position: absolute; left: 100%; opacity: 1 }
 }
   @font-face {
-   font-family: myFirstFont;
-   src: url(sansation_light.woff);
-}
-
-@font-face {
-   font-family: myFirstFont;
-   src: url(sansation_bold.woff);
-   font-weight: bold;
-}
-
-* {
-   font-family: myFirstFont;
+   font-family: 'Sansation_Light';
+   src: url(Sansation_Light.woff);
 }
 
 /* Intro Animation */
