@@ -80,6 +80,10 @@
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards;
 }
+
+h1 {
+	font-family: 'Sansation_Light', sans-serif;
+}
 /* CSS 3x3 Grid */
 .grid-container {
 	position: absolute;
