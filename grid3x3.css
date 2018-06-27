@@ -15,8 +15,8 @@
 	100% { position: absolute; left: 100%; bottom: 10px; opacity: 1 }
 }
   @font-face {
-   font-family: 'Sansation_Light';
-   src: url(Sansation_Light.woff) format('woff');
+   font-family: 'Lemon Tuesday';
+   src: url(Lemon Tuesday.otf) format('otf');
 }
 
 /* Intro Animation */
@@ -82,7 +82,7 @@
 }
 
 h1 {
-	font-family: 'Sansation_Light', sans-serif;
+	font-family: 'Lemon Tuesday', script;
 }
 /* CSS 3x3 Grid */
 .grid-container {
