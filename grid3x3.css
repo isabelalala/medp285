@@ -16,7 +16,7 @@
 }
   @font-face {
    font-family: 'Sansation_Light';
-   src: url(Sansation_Light.woff);
+   src: url(Sansation_Light.woff) format('woff');
 }
 
 /* Intro Animation */
