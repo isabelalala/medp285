@@ -74,6 +74,9 @@
 	margin: auto;
 	padding: 2em;
 	text-align: center;
+	opacity: 0;
+	position: absolute;
+	bottom: 0;
 	animation-name: leftFadeInRightFadeOut;
 	animation-delay: 6s;
 	animation-duration: 3s;
