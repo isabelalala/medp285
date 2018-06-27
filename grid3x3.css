@@ -52,7 +52,6 @@
 	bottom: 10%;
 	padding: 2em;
 	text-align: center;
-	opacity: 0;
 	animation-name: fadeInOut;
 	animation-delay: 3s;
 	animation-duration: 3s;
@@ -65,14 +64,13 @@
 	right: 100%;
 	top:30%;
 	text-align: center;
-	opacity: 1;
 	animation-name: fadeInOut;
 	animation-duration: 3s;
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards;
 }
 #line4 {
-		margin: auto;
+	margin: auto;
 	width: 50%;
 	padding: 2em;
 	text-align: center;
